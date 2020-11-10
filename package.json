@@ -1,0 +1,14 @@
+{
+  "name": "sky-tavern-covid-survey",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {}
+}
